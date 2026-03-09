@@ -2,6 +2,8 @@
 
 A replicable implementation of the **Computational Life** experiment by Blaise Agüera y Arcas et al., where self-replicating programs spontaneously emerge from random noise with no fitness function.
 
+For the blog post referring to this repo, please visit <https://jonamiki.com/posts/bff-emergent-complexity-experiment/>
+
 **Paper:** [Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction](https://arxiv.org/abs/2406.19108) (arXiv:2406.19108)
 
 ## What This Does
